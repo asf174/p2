@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Esta es la primera linea del alumno A
 Esta es la segunda linea del alumno A
 Esta es la primera linea MODIFICADA del alumno B
+=======
+Esta es la primera linea MODIFICADA  del alumno A
+Esta es la segunda linea MODIFICADA del alumno A
+>>>>>>> ca52ce0ba8f0cab9d29c06a4a60e383432c228ae
 Esta es la primera linea del alumno B
 Esta es la segunda linea del alumno B
